@@ -144,3 +144,8 @@ public:
         return ROOT == nullptr;
     }
 };
+
+int main()
+{
+    
+}
